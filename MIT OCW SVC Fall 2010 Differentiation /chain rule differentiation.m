@@ -2,6 +2,7 @@
 % h(x) = f(g(x)) for a composite function
 % h'(x) = f'(g(x))g'(x)
 
+
 % Example 1
 syms x;
 
