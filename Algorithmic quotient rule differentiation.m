@@ -1,6 +1,7 @@
 % Quotient rule
 % (u/v)' = (vu' - uv')/v^2
 
+
 % Example 1
 % Defining the variables
 syms x;
