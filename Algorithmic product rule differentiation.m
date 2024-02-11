@@ -1,6 +1,7 @@
 % Product rule
 % (uv)' = uv' + vu'
 
+
 % Example 1
 % Defining the variables
 syms x;
